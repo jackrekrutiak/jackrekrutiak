@@ -4,7 +4,7 @@ I work where customers, workflows and code meet. I spent three years managing co
 
 I am open to any feedback / collaboration based on my profile. you can reach me        @ jerekrutiak@gmail.com 
 
-**Based in Calgary · BBA, ERP Systems (St. Francis Xavier University)**
+** · BBA, ERP Systems (St. Francis Xavier University)**
 
 #### Projects
 
