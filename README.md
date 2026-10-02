@@ -1,6 +1,8 @@
-### Hi, I'm Jack 👋
+### Hi, I'm Jack 
 
 I work where customers, workflows and code meet. I spent three years managing corporate accounts at a Calgary foreign exchange and global payments firm, co-founded a golf-travel startup where I chose the tech stack and designed the product, and I build working prototypes that show how a solution fits a real process.
+
+I am open to any feedback / collaboration based on my profile. you can reach me        @ jerekrutiak@gmail.com 
 
 **Based in Calgary · BBA, ERP Systems (St. Francis Xavier University)**
 
