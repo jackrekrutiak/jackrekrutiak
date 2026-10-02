@@ -4,6 +4,8 @@ I work where customers, workflows and code meet. I spent three years managing co
 
 **Based in Calgary · BBA, ERP Systems (St. Francis Xavier University)**
 
+**Portfolio with a live demo of every project: [jackrekrutiak.github.io](https://jackrekrutiak.github.io)**
+
 #### Projects
 
 | Project | What it shows | Built with |
